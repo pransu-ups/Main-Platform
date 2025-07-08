@@ -2,7 +2,7 @@
   "cleanUrls": true,
   "headers": [
     {
-      "source": "/Build/(.*)\\.unityweb",
+      "source": "/Build/(.*)\\.br",
       "headers": [
         {
           "key": "Content-Encoding",
